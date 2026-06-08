@@ -1,0 +1,16 @@
+# Local environment variables (Secret API keys)
+.env
+.env.local
+.env.*.local
+
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+
+# Production builds
+dist/
+build/
+
+# System files
+.DS_Store
